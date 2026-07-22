@@ -15,7 +15,6 @@
 ###
 
 <img data-importer="image" align="left" height="200" src="https://i.pinimg.com/originals/b5/5e/0f/b55e0f8e89908f2e853780d0841d38a9.gif"  />
-<br clear="left">
 
 ###
 
@@ -26,6 +25,7 @@
 <p data-importer="text" align="left">✨ Turning ideas into code<br>📚 I'm currently learning data engineer, cloud computing, and modern development practices<br>🎯 Goal: To grow into a Software Engineer and contribute to meaningful projects<br>🎲 Fun fact: I enjoy participating in hackathons and learning new technologies.</p>
 
 ###
+<br clear="left">
 
 <h2 data-importer="text" align="left">I code with</h2>
 
@@ -92,12 +92,13 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="linkedin.com/in/kgomotso-mawande " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="kgomotso1504@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/kgomotso-mawande/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+</a>
+  
+  <a href="mailto:kgomotso1504@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
+</a>
 </div>
 
 ###
